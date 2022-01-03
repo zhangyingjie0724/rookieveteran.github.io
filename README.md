@@ -4,9 +4,10 @@ Hello,
 
 I am Yingjie Zhang (张英杰). 
 
-- Postdoc in Applied Mathematics, Yanqi Lake Beijing Institute of Mathematical Sciences and Applications, 2021-Present.
-- Ph.D. in Cyberspace Security, University of Chinese Academy of Sciences, 2016-2021.
 - B.S. in Information and Computing Science, Northeastern University, 2012-2016.
+- Ph.D. in Cyberspace Security, University of Chinese Academy of Sciences, 2016-2021.
+- Postdoc in Applied Mathematics, Yanqi Lake Beijing Institute of Mathematical Sciences and Applications, 2021-Present.
+
 
 ## Research Interests 
 - Automatic cryptanalysis of symmetric-key primitives
