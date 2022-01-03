@@ -2,7 +2,7 @@
 
 Hello,
 
-I am Yingjie Zhang (张英杰), a cryptography researcher from Beijing. 
+I am Yingjie Zhang (张英杰). 
 
 - Postdoc in Applied Mathematics, Yanqi Lake Beijing Institute of Mathematical Sciences and Applications, 2021-Present.
 - Ph.D. in Cyberspace Security, University of Chinese Academy of Sciences, 2016-2021.
