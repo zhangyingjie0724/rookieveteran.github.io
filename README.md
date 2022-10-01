@@ -29,8 +29,8 @@ I am Yingjie Zhang (张英杰).
 - Mathematical Foundation of Information Security, Prof. Lei Hu, University of Chinese Academy of Sciences, Autumn 2019/2020.
 - Algebraic Geometry Codes and Huawei’s 8th Problem, Prof. Chuangqiang Hu, Yanqi Lake Beijing Institute of Mathematical Sciences and Applications, Autumn 2021.
 
-## Funding
-Research on Practical Symmetric-key Algorithms for Privacy Computing, 2022-05 to 2023-09, Beijing Municipal Human Resources and Social Security Bureau (Beijing, CN).
+## Fundings
+Research on Practical Symmetric-key Algorithms for Privacy Computing(Beijing Postdoctoral Research Foundation, Grant No. 2022-ZZ-070), PI.
 
 ## Contact
 - Email: zyj.crypto@outlook.com
