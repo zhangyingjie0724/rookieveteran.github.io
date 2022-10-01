@@ -22,8 +22,8 @@ I am Yingjie Zhang (张英杰).
 - **Yingjie Zhang**, Lei Hu, Danping Shi, Peng Wang, Siwei Sun, Rong Wei. Improved Fast Correlation Attack on Grain-v1. Journal of Cryptologic Research, 2020, 7(6): 812-825. [url](http://www.jcr.cacrnet.org.cn/EN/Y2020/V7/I6/812)
 - Qidi You, Xuan Zhou, Shun Li, **Yingjie Zhang**. Upper Bounds of Differential Branch Number of n-bit Permutations. Journal of Cryptologic Research, 2020, 7(6): 789-798. [url](http://www.jcr.cacrnet.org.cn/EN/Y2020/V7/I6/789)
 - Zihao Wei, **Yingjie Zhang**, Lei Hu, Siwei Sun, Danping Shi. A Compact Hardware implementation of S-box for Camellia. Journal of Cryptologic Research, 2021, 8(5): 844-855. [url](http://www.jcr.cacrnet.org.cn/EN/Y2021/V8/I5/844)
-- **Yingjie Zhang**, Lijun Lyu, Kexin Qiao, Zhiyu Zhang, Siwei Sun and Lei Hu. Automatic Key Recovery of Feistel Ciphers: Application to SIMON and SIMECK. ISPEC, 2021: 147–167. [pdf](https://link.springer.com/content/pdf/10.1007%2F978-3-030-93206-0_10.pdf)
-- Lijun Lyu, Yi Tu, **Yingjie Zhang**, Improving the Deep-Learning-Based Differential Distinguisher and Applications to Simeck. CSCWD, 2022: 465-470. [url](https://ieeexplore.ieee.org/document/9776036)
+- **Yingjie Zhang**, Lijun Lyu, Kexin Qiao, Zhiyu Zhang, Siwei Sun, Lei Hu. Automatic Key Recovery of Feistel Ciphers: Application to SIMON and SIMECK. ISPEC, 2021: 147–167. [pdf](https://link.springer.com/content/pdf/10.1007%2F978-3-030-93206-0_10.pdf)
+- Lijun Lyu, Yi Tu, **Yingjie Zhang**. Improving the Deep-Learning-Based Differential Distinguisher and Applications to Simeck. CSCWD, 2022: 465-470. [url](https://ieeexplore.ieee.org/document/9776036)
 
 ## Teaching Assistant
 - Mathematical Foundation of Information Security, Prof. Lei Hu, University of Chinese Academy of Sciences, Autumn 2019/2020.
