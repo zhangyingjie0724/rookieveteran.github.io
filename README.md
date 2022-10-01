@@ -30,7 +30,7 @@ I am Yingjie Zhang (张英杰).
 - Algebraic Geometry Codes and Huawei’s 8th Problem, Prof. Chuangqiang Hu, Yanqi Lake Beijing Institute of Mathematical Sciences and Applications, Autumn 2021.
 
 ## Fundings
-- Research on Practical Symmetric-key Algorithms for Privacy Computing(Beijing Postdoctoral Research Foundation, Grant No. 2022-ZZ-070).
+- Research on Practical Symmetric-key Algorithms for Privacy Computing (Beijing Postdoctoral Research Foundation, Grant No. 2022-ZZ-070).
 
 ## Contact
 - Email: zyj.crypto@outlook.com; zyj.crypto@gmail.com
